@@ -1,5 +1,11 @@
 # 💫 About Me:
-👩‍💻 Programmer | 🚀 Dual Degree Student | 🏆 Coding Competitions Enthusiast<br><br>🎓 Pursuing BS in Data Science and Applications @ IIT Madras<br><br>🎓 Pursuing BTech in Computer Science (AI Specialization) @ Amrita Vishwa Vidyapeetham<br><br>🌟 Student Mentor @ IEEE AVV Amaravati SB<br><br>💡 Co-founder @ IEEE Student Branch & Technity Club, Amrita Vishwa Vidyapeetham<br><br>🥇 Summa Cum Laude | 🏅 Computer Olympiad Regional Qualifier<br><br>🚀 Google Kick Start 2020 Round E Completer<br><br>🎯 Passionate about Coding, Skill Development, and Real-World Solutions<br><br>🧠 Interested in Solutions Development and Machine Learning for AI-FinTec
+👩‍💻 Programmer | 🚀 Dual Degree Student | 🏆 Coding Competitions Enthusiast<br><br>
+🎓 Pursuing BS in Data Science and Applications @ IIT Madras<br><br>
+🎓 Pursuing BTech in Computer Science (AI Specialization) @ Amrita Vishwa Vidyapeetham, Amaravati<br><br>
+🌟 Student Mentor @ IEEE AVV Amaravati Student BranchB<br><br> 
+🚀 Google Kick Start 2020 Round E Completer<br><br> | 🏅 Computer Olympiad Regional Qualifier<br><br>
+🎯 Passionate about Coding, Skill Development, and Real-World Solutions<br><br>
+🧠 Interested in Solutions Development and Machine Learning for AI-FinTech
 
 
 ## 🌐 Socials:
