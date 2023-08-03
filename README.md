@@ -39,7 +39,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Polymath-Saksh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Cat Stats
+### Random Cat Meme
 <img src = "https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif">
 
 [![](https://visitcount.itsvg.in/api?id=Polymath-Saksh&icon=0&color=1)](https://visitcount.itsvg.in)
