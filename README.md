@@ -1,5 +1,6 @@
 # 💫 About Me:
 👩‍💻 Programmer | 🚀 Dual Degree Student | 🏆 Coding Competitions Enthusiast<br><br>
+🪟 Microsoft Learn Student Ambassador (Alpha Grade)<br>
 🎓 Pursuing BS in Data Science and Applications @ IIT Madras<br><br>
 🎓 Pursuing BTech in Computer Science and Engineering (AI Specialization) @ Amrita Vishwa Vidyapeetham, Amaravati<br><br>
 🌟 Student Mentor @ IEEE AVV Amaravati Student Branch<br><br> 
