@@ -1,15 +1,15 @@
 # 💫 About Me:
 👩‍💻 Programmer | 🚀 Dual Degree Student | 🏆 Coding Competitions Enthusiast<br><br>
 🎓 Pursuing BS in Data Science and Applications @ IIT Madras<br><br>
-🎓 Pursuing BTech in Computer Science (AI Specialization) @ Amrita Vishwa Vidyapeetham, Amaravati<br><br>
-🌟 Student Mentor @ IEEE AVV Amaravati Student BranchB<br><br> 
+🎓 Pursuing BTech in Computer Science and Engineering (AI Specialization) @ Amrita Vishwa Vidyapeetham, Amaravati<br><br>
+🌟 Student Mentor @ IEEE AVV Amaravati Student Branch<br><br> 
 🚀 Google Kick Start 2020 Round E Completer<br><br> | 🏅 Computer Olympiad Regional Qualifier<br><br>
 🎯 Passionate about Coding, Skill Development, and Real-World Solutions<br><br>
-🧠 Interested in Solutions Development and Machine Learning for AI-FinTech
+🧠 Interested in Solutions Development, Machine Learning and AI-FinTech  Applications.
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PolymathSaksh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/polymath_saksh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshamkr1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sakshamkr1) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PolymathSaksh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/polymath_saksh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshamkr1) [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sakshamkr1) 
 
 # 💻 Tech Stack:
 
