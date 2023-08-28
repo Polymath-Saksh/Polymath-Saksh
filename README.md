@@ -1,12 +1,11 @@
 # 💫 About Me:
-👩‍💻 Programmer | 🚀 Dual Degree Student | 🏆 Coding Competitions Enthusiast<br><br>
-🪟 Microsoft Learn Student Ambassador (Alpha Grade)<br><br>
-🎓 Pursuing BS in Data Science and Applications @ IIT Madras<br><br>
+👩‍💻 Programmer | 🚀 Dual Degree Student | 🏆 Coding Competitions Enthusiast<br><be>
+✨ Hackerrank Problem Solving 5-Starred
 🎓 Pursuing BTech in Computer Science and Engineering (AI Specialization) @ Amrita Vishwa Vidyapeetham, Amaravati<br><br>
 🌟 Student Mentor @ IEEE AVV Amaravati Student Branch<br><br> 
 🚀 Google Kick Start 2020 Round E Completer | 🏅 Computer Olympiad Regional Qualifier<br><br>
 🎯 Passionate about Coding, Skill Development, and Real-World Solutions<br><br>
-🧠 Interested in Solutions Development, Machine Learning and AI-FinTech  Applications.
+🧠 Interested in Solutions Development, Machine Learning and AI-FinTech Applications.
 
 
 ## 🌐 Socials:
