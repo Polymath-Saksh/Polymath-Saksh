@@ -1,6 +1,6 @@
 # 💫 About Me:
 👩‍💻 Programmer | 🚀 Dual Degree Student | 🏆 Coding Competitions Enthusiast<br><be>
-✨ Hackerrank Problem Solving 5-Starred
+✨ Hackerrank Problem Solving 5-Stars <br><br>
 🎓 Pursuing BTech in Computer Science and Engineering (AI Specialization) @ Amrita Vishwa Vidyapeetham, Amaravati<br><br>
 🌟 Student Mentor @ IEEE AVV Amaravati Student Branch<br><br> 
 🚀 Google Kick Start 2020 Round E Completer | 🏅 Computer Olympiad Regional Qualifier<br><br>
