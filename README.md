@@ -1,7 +1,7 @@
 # 💫 About Me:
 👩‍💻 Programmer | 🚀 Dual Degree Student | 🏆 Coding Competitions Enthusiast<br><br><be>
 🪟 Microsoft Learn Student Ambassador<br><br><be>
-☁️ Amazon AWS Cloud Practitioner<br><br><be>
+☁️ Amazon AWS Cloud Practitioner | Microsoft Azure Essentials (AZ-900)<br><br><be>
 ✨ Hackerrank Problem Solving 5-Stars <br><br><be>
 🎓 Sophomore @ Amrita Vishwa Vidyapeetham, Amaravati | BTech in Computer Science and Engineering (AI Specialization)<br><br><be>
 🌟 Student Mentor @ IEEE AVV Amaravati Student Branch<br><br><be>
