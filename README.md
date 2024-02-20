@@ -1,7 +1,6 @@
 # 💫 About Me:
 👩‍💻 Programmer | 🚀 Research Student | 🏆 Coding Competitions Enthusiast<br><br>
 🪟 Microsoft Learn Student Ambassador (Alpha Grade)<br><br>
-🧑‍🎓 Bertelsmann Germany Next Generation Tech Booster Scholar 2023<br><br>
 ☁️ Amazon AWS Cloud Practitioner | Microsoft Azure Essentials (AZ-900)<br><br>
 ✨ Hackerrank Problem Solving 5-Stars<br><br>
 🎓 Sophomore @ Amrita Vishwa Vidyapeetham, Amaravati | BTech in Computer Science and Engineering (AI Specialization)<br><br>
