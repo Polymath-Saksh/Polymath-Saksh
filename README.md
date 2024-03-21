@@ -1,13 +1,12 @@
 # 💫 About Me:
-👩‍💻 Programmer | 🚀 Research Student | 🏆 Coding Competitions Enthusiast<br><br>
+👩‍💻 Programmer | 🚀 Research Student<br><br>
 🪟 Microsoft Learn Student Ambassador (Alpha Grade)<br><br>
+:octocat: GitHub Local Campus Program Manager  
 ☁️ Amazon AWS Cloud Practitioner | Microsoft Azure Essentials (AZ-900)<br><br>
 ✨ Hackerrank Problem Solving 5-Stars<br><br>
 🎓 Sophomore @ Amrita Vishwa Vidyapeetham, Amaravati | BTech in Computer Science and Engineering (AI Specialization)<br><br>
-🌟 Student Mentor @ IEEE AVV Amaravati Student Branch<br><br>
-🚀 Google Kick Start 2020 Round E | 🏅 Computer Olympiad Regional Qualifier<br><br>
 🎯 Passionate about Coding, Skill Development, and Real-World Solutions<br><br>
-🧠 Interested in Solutions Development, Machine Learning and AI-FinTech Applications.
+🧠 Interested in Machine Learning and AI-FinTech Applications.
 
 
 ## 🌐 Socials:
