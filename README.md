@@ -5,7 +5,7 @@
 👩‍💻 Programmer | 🚀 Research Student<br><br>
 🪟 Microsoft Learn Student Ambassador (Beta Grade)<br><br>
 :octocat: GitHub Campus Program Manager @Amrita Vishwa Vidyapeetham, Amaravati <br><br>
-☁️ Amazon AWS Cloud Practitioner | Microsoft Azure Essentials (AZ-900)<br><br> | Microsoft Azure AI Essentials (AI-900)
+☁️ Amazon AWS Cloud Practitioner | Microsoft Azure Essentials (AZ-900) | Microsoft Azure AI Essentials (AI-900) <br><br>
 ✨ Hackerrank Problem Solving 5-Stars<br><br>
 🎓 Sophomore @ Amrita Vishwa Vidyapeetham, Amaravati | BTech in Computer Science and Engineering (AI Specialization)<br><br>
 🎯 Passionate about Coding, Skill Development, and Real-World Solutions<br><br>
