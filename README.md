@@ -5,10 +5,10 @@
 👩‍💻 Programmer | 🚀 Research Student<br><br>
 🪟 Microsoft Learn Student Ambassador (Beta Grade)<br><br>
 :octocat: GitHub Campus Program Manager @Amrita Vishwa Vidyapeetham, Amaravati <br><br>
-AWS AI & ML Scholar 2024 <br><br>
+🎓 AWS AI & ML Scholar 2024 <br><br>
 ☁️ Amazon AWS Cloud Practitioner | Microsoft Azure Essentials (AZ-900) | Microsoft Azure AI Essentials (AI-900) <br><br>
 ✨ Hackerrank Problem Solving 5-Stars<br><br>
-🎓 Sophomore @ Amrita Vishwa Vidyapeetham, Amaravati | BTech in Computer Science and Engineering (AI Specialization)<br><br>
+🏫 Junior @ Amrita Vishwa Vidyapeetham, Amaravati | BTech in Computer Science and Engineering (AI Specialization)<br><br>
 🎯 Passionate about Coding, Skill Development, and Real-World Solutions<br><br>
 🧠 Interested in Machine Learning and AI-FinTech Applications.
 
