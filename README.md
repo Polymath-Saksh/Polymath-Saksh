@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=1000&pause=10000&color=37C0C9&center=false&vCenter=true&random=true&width=435&lines=Hi%2C+this+is+Saksh!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=100000&pause=10000&color=37C0C9&center=false&vCenter=true&random=true&width=435&lines=Hi%2C+this+is+Saksh!)](https://git.io/typing-svg)
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=1000&pause=10000&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%92%AB+About+me%3A)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=100000&pause=10000&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%92%AB+About+me%3A)](https://git.io/typing-svg)
 
 👩‍💻 AI Engineer <br><br>
 🪟 Microsoft Learn Student Ambassador (Beta Grade)<br><br>
