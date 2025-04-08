@@ -3,14 +3,13 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=1&pause=1000000&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%92%AB+About+me%3A)](https://git.io/typing-svg)
 
 👩‍💻 AI Engineer <br><br>
-🪟 Microsoft Learn Student Ambassador (Beta Grade)<br><br>
+🪟 Microsoft Learn Student Ambassador (Gold Grade)<br><br>
 :octocat: GitHub Campus Program Manager @Amrita Vishwa Vidyapeetham, Amaravati <br><br>
-🎓 AWS AI & ML Scholar 2024 <br><br>
-☁️ Amazon AWS Cloud Practitioner | Microsoft Azure AI Essentials (AI-900) <br><br>
-✨ Hackerrank Problem Solving 5-Stars<br><br>
-🏫 Junior @ Amrita Vishwa Vidyapeetham, Amaravati | BTech in Computer Science and Engineering (AI Specialization)<br><br>
+🎓 AWS AI & ML Scholar 2024 | Harvard Aspire Scholar 2025 <br><br>
+☁️ Microsoft Azure Essentials (AZ-900) & Azure AI Essentials (AI-900) Certified <br><br>
+🏫 Senior @ Amrita Vishwa Vidyapeetham, Amaravati | BTech in Computer Science and Engineering (AI Specialization)<br><br>
 🎯 Passionate about Coding, Skill Development, and Real-World Solutions<br><br>
-🧠 Interested in Machine Learning and AI-FinTech Applications.
+🧠 Interested in Machine Learning, Computer Vision, Cybersecurity and AI-FinTech Applications.
 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=1000&pause=10000&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%8C%90+Socials%3A)](https://git.io/typing-svg)
