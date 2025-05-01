@@ -5,7 +5,7 @@
 👩‍💻 AI Engineer <br><br>
 🪟 Microsoft Learn Student Ambassador (Gold Grade)<br><br>
 :octocat: GitHub Campus Program Manager @Amrita Vishwa Vidyapeetham, Amaravati <br><br>
-🎓 AWS AI & ML Scholar 2024 | Harvard Aspire Scholar 2025 <br><br>
+🎓 AWS AI & ML Scholar 2025 & 2024 | Harvard Aspire Scholar 2025 <br><br>
 ☁️ Microsoft Azure Essentials (AZ-900) & Azure AI Essentials (AI-900) Certified <br><br>
 🏫 Senior @ Amrita Vishwa Vidyapeetham, Amaravati | BTech in Computer Science and Engineering (AI Specialization)<br><br>
 🎯 Passionate about Coding, Skill Development, and Real-World Solutions<br><br>
