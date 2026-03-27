@@ -3,13 +3,13 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=1&pause=1000000&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%92%AB+About+me%3A)](https://git.io/typing-svg)
 
 👩‍💻 AI & ☁️Cloud Engineer <br><br>
-🪟 Microsoft Learn Student Ambassador (Gold Grade)<br><br>
-:octocat: GitHub Campus Program Head @Amrita Vishwa Vidyapeetham, Amaravati <br><br>
+🪟 Microsoft Student Ambassador (Gold Grade)<br><br>
+🏢 Moderator @ Microsoft Student Community and Microsoft AI Foundry
 🎓 AWS AI & ML Scholar 2025 & 2024 | Harvard Aspire Scholar 2025 <br><br>
 ☁️ Microsoft Azure Essentials (AZ-900) & Azure AI Associate (AI-104) Certified <br><br>
-🏫 Senior @ Amrita Vishwa Vidyapeetham, Amaravati | BTech in Computer Science and Engineering (AI Specialization)<br><br>
+🏫 BTech in Computer Science and Engineering (AI Specialization)<br><br>
 🎯 Passionate about Coding, Skill Development, and Real-World Solutions<br><br>
-🧠 Interested in Machine Learning, Computer Vision, Cybersecurity and AI-FinTech Applications.
+🧠 Interested in Machine Learning, Computer Vision and AI-FinTech Applications.
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=1000&pause=10000&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%8C%90+Socials%3A)](https://git.io/typing-svg)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PolymathSaksh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/polymath_saksh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshamkr1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sakshamkr1) 
