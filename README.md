@@ -4,7 +4,7 @@
 
 👩‍💻 AI & ☁️Cloud Engineer <br><br>
 🪟 Microsoft Student Ambassador (Gold Grade)<br><br>
-🏢 Moderator @ Microsoft Student Community and Microsoft AI Foundry
+🏢 Moderator @ Microsoft Student Community and Microsoft AI Foundry <br><br>
 🎓 AWS AI & ML Scholar 2025 & 2024 | Harvard Aspire Scholar 2025 <br><br>
 ☁️ Microsoft Azure Essentials (AZ-900) & Azure AI Associate (AI-104) Certified <br><br>
 🏫 BTech in Computer Science and Engineering (AI Specialization)<br><br>
